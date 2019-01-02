@@ -11,15 +11,20 @@ BinarySearchTree.cpp contains the following functions:
 protected:
    //------------------------------------------------------------
    // Protected Utility Methods Section:
+   
    // Recursive helper methods for the public methods.
+   
    //------------------------------------------------------------
    // Recursively finds where the given node should be placed and
    // inserts it in a leaf at that point.
+   
    BinaryNode<ItemType>* insertInorder(BinaryNode<ItemType>* subTreePtr,
                                        BinaryNode<ItemType>* newNode);
    
+   
    // Removes the given target value from the tree while maintaining a
    // binary search tree.
+   
    BinaryNode<ItemType>* removeValue(BinaryNode<ItemType>* subTreePtr,
                                      const ItemType target,
                                      bool& success);
@@ -53,6 +58,8 @@ public:
    //------------------------------------------------------------
    // Public Methods Section.
    //------------------------------------------------------------
+   
+   
    bool isEmpty() const;
    int getHeight() const;
    int getNumberOfNodes() const;
