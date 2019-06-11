@@ -1,9 +1,3 @@
-//  Created by Frank M. Carrano and Tim Henry.
-//  Copyright (c) 2013 __Pearson Education__. All rights reserved.
-
-/** A class of nodes for a link-based binary tree.
- Listing 16-2.
- @file BinaryNode.h */
  
 #ifndef _BINARY_NODE
 #define _BINARY_NODE
