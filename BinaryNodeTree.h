@@ -1,6 +1,3 @@
-//  Created by Frank M. Carrano and Tim Henry.
-//  Copyright (c) 2013 __Pearson Education__. All rights reserved.
-
 /** ADT binary tree: Link-based implementation.
  Listing 16-3.
  @file BinaryNodeTree.h */
