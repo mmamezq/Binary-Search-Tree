@@ -1,11 +1,3 @@
-//
-//  mainTree.cpp
-//  x
-//
-//  Created by Tony Biehl on 11/6/17.
-//  Copyright © 2017 Tony Biehl. All rights reserved.
-//
-
 #include <iostream>
 #include <string>
 #include <fstream>
