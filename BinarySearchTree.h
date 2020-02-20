@@ -1,8 +1,3 @@
-//  Created by Frank M. Carrano and Tim Henry.
-//  Copyright (c) 2013 __Pearson Education__. All rights reserved.
-
-// Listing 16-4.
-
 /** Link-based implementation of the ADT binary search tree.
  @file BinarySearchTree.h */
  
